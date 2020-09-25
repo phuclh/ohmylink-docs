@@ -15,6 +15,11 @@ Bạn có thể xem Live Urls của từng Guest Post trong trang **chi tiết G
 Lúc này, bạn đã thấy được domain của website mà bạn đặt mua Guest Post.
 :::
 
+### Khác nhau giữa Guest Post và Live Url
+Guest Post là nơi chứa những thông tin mà bạn sẽ gửi cho người bán hoặc thông tin về website mà bạn sẽ đăng guest post lên. 
+
+Còn Live Url là **đường link mà người bán sẽ gửi ngược lại cho bạn** sau khi họ đã đăng bài viết của bạn lên website của họ. Nếu bạn sử dụng [tính năng theo dõi backlinks](/vi/nguoi-mua/live-url.html#theo-doi-live-url) thì bạn sẽ thao tác trên **Live Url**, chứ không phải là **Guest Post**.
+
 ## Trạng thái của Live Url
 
 - **Pending:** Live Url đang đợi quyết định của bạn. Bạn có thể chấp nhận hoặc từ chối nếu live url chưa đúng với những yêu cầu của bạn.

@@ -32,9 +32,19 @@ Bạn cũng có thể bấm vào biểu tượng hình *con mắt* để xem chi
 - **Live - Rejected**: Guest Post của bạn đã được đăng nhưng [Live Url](/vi/nguoi-mua/live-url) bị từ chối.
 - **Complete**: Guest Post đã hoàn thành.
 
+:::tip Nhận thông báo:
+Bạn sẽ nhận được thông báo nếu guest post của bạn được đăng (Live).
+:::
+
 ## Nộp bài viết
 
 Nếu bạn chưa nộp bài viết trong quá trình đặt đơn hàng thì bạn có thể nộp bằng cách nhấn vào nút **Submit Article URL**.
+
+![Submit Article URL](./../../assets/img/submit-article-url.png)
+
+:::tip Có thể bạn chưa biết
+Nếu trong vòng 3 ngày nếu bạn không nộp bài viết, hệ thống sẽ gửi thông báo nhắc nhở cho bạn. Thông báo chỉ được gửi 1 lần duy nhất.
+:::
 
 ## Trao đổi với người bán
 
