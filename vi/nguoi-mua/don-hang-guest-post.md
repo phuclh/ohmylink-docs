@@ -33,7 +33,7 @@ Bạn cũng có thể bấm vào biểu tượng hình *con mắt* để xem chi
 - **Complete**: Guest Post đã hoàn thành.
 
 :::tip Nhận thông báo:
-Bạn sẽ nhận được thông báo nếu guest post của bạn được đăng (Live).
+Bạn sẽ nhận được thông báo real-time, email, Slack, hay Discord nếu guest post của bạn được đăng (Live).
 :::
 
 ## Nộp bài viết
