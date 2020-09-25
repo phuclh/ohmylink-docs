@@ -12,9 +12,9 @@ Bạn sẽ thấy được mã đơn hàng (sử dụng cho việc hỗ trợ), 
 
 ## Xem chi tiết đơn hàng
 
-Bạn có thể xem chi tiết đơn hàng bằng cách bấm vào icon hình *con mắt*.
+Để xem chi tiết đơn hàng, bạn hãy bấm vào biểu tượng hình *con mắt*.
 
-Bạn sẽ thấy được các Guest Posts mà bạn đã đặt, cũng như các thông tin, trạng thái và giá tiền của chúng.
+Khi đó, bạn sẽ thấy được các Guest Posts mà bạn đã đặt, cũng như các thông tin, trạng thái và giá tiền của chúng.
 
 Bạn cũng sẽ thấy các khoản phụ thu (nếu có). **Ví dụ:** Phí thuê Writer để viết bài.
 
