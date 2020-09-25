@@ -53,7 +53,7 @@ Chém thế chứ bạn có tiền là lên đăng ký tài khoản rồi lấy 
 - Bạn thêm website và quy định cho các bài viết, Oh My Link sẽ giúp bạn lấy toàn bộ chỉ số từ Moz, Majestic, Ahrefs.
 - Nhận thông báo real-time hay email, Slack, Discord khi có người mua Guest Posts.
 - Quản lý đơn hàng, doanh thu.
-- Thống kê các website bán chạy nhất, số lượng đơn hàng theo ngày / tháng /năm.
+- Thống kê các website bán chạy nhất, số lượng đơn hàng theo ngày / tháng / năm.
 
 :::warning Lưu ý:
 Các websites sẽ được kiểm tra có đáp ứng được yêu cầu trước khi được xuất hiện trên Oh My Link.
