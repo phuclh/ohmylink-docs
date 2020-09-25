@@ -23,8 +23,8 @@ Còn Live Url là **đường link mà người bán sẽ gửi ngược lại c
 ## Trạng thái của Live Url
 
 - **Pending:** Live Url đang đợi quyết định của bạn. Bạn có thể chấp nhận hoặc từ chối nếu live url chưa đúng với những yêu cầu của bạn.
-- **Rejected:** Bạn đã từ chối Live url.
-- **Approved:** Bạn đã chấp nhận Live url.
+- **Rejected:** Bạn đã từ chối Live Url.
+- **Approved:** Bạn đã chấp nhận Live Url.
 
 ## Từ chối Live Url
 
