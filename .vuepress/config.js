@@ -1,6 +1,6 @@
 module.exports = {
-    title: "Laravel Jetstream",
-    description: "Beautifully designed application scaffolding for Laravel",
+    title: "Oh My Link",
+    description: "Oh My Link Documentation",
     base: '/',
 
     head: [
@@ -16,25 +16,26 @@ module.exports = {
     ],
 
     themeConfig: {
-        logo: '/assets/img/logo.svg',
+        logo: '/assets/img/logo.png',
         displayAllHeaders: true,
         activeHeaderLinks: false,
         searchPlaceholder: 'Press / to search',
         lastUpdated: false, // string | boolean
         sidebarDepth: 0,
 
-        repo: 'laravel/jetstream',
+        repo: '',
 
-        docsRepo: 'laravel/jetstream-docs',
+        docsRepo: 'phuclh/ohmylink-docs',
         editLinks: true,
         editLinkText: 'Help us improve this page!',
 
         nav: [
-            { text: 'Home', link: '/', target: '_self' },
+            { text: 'Home', link: 'https://ohmylink.app/', target: '_self' },
+            { text: 'Dashboard', link: 'https://ohmylink.app/app', target: '_self' },
         ],
 
         sidebar: {
-            '/1.x/': require('./1.x')
+            '/vi/': require('./vi')
         },
     },
 }
