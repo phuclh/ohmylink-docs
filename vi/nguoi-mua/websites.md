@@ -42,7 +42,7 @@ Oh My Link cung cấp các bộ lọc để bạn có thể tìm kiếm những 
 
 Các bộ lọc hiện có:
 
-- Lọc theo **Danh Mục (Ví dụ: Fitness, Recipes, Outdoor, Garden, Home, ...).
+- Lọc theo **Danh Mục** (Ví dụ: Fitness, Recipes, Outdoor, Garden, Home, ...).
 - Lọc theo **Giá**. Ví dụ: Từ $70 - $100.
 - Lọc theo **Domain Authority (Moz)**. Ví dụ: Từ 10-25.
 - Lọc theo **Trust Flow (Majestic)**. Ví dụ: Từ 10-20.
@@ -64,3 +64,15 @@ Bạn có thể đặt mua Guest Post bằng cách nhấn vào nút **Buy Now**
 Hoặc nếu bạn muốn mua nhiều Guest Posts cùng lúc thì hãy chọn vào các *Checkboxes* ở trước tên miền website sau đó nhấn **Buy Now** ở hộp thoại **Select Action**.
 
 ![Bộ lọc cho website](./../../assets/img/buy-multiple.png)
+
+## Chặn các websites không mong muốn
+
+Nếu bạn không muốn thấy một số websites nhất định trong danh sách websites, bạn có thể lọc chúng ra bằng cách sử dụng tính năng **Website Blacklist** mà Oh My Link cung cấp.
+
+Để sử dụng tính năng này, bạn truy cập vào trang **Profile**
+
+![Profile](./../../assets/img/profile.png)
+ 
+Sau đó kéo xuống dưới bạn sẽ thấy trường **Website Blacklist**, hãy nhập tên miền của những websites bạn muốn chặn, mỗi tên miền nằm trên một dòng và bạn sẽ vĩnh viễn không thấy chúng xuất hiện nữa.
+ 
+ ![Profile](./../../assets/img/website-blacklist.png)

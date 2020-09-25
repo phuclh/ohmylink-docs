@@ -38,6 +38,16 @@ Nếu bạn không muốn thuê Writer thì hãy nhập URL của bài viết v�
 Trước khi nộp bài viết hay thuê Writer, bạn nên xem qua các điều khoản hay yêu cầu về Guest Post của người bán để không bị trễ thời gian nhận backlinks. 
 :::
 
+### Kiểm tra website đã mua trước đó hay chưa?
+
+Mặc định, Oh My Link sẽ không lọc các website bạn đã mua trước đó ra khỏi danh sách vì một số bạn sẽ muốn mua lại Guest Post trên các websites đó. Chính vì vậy, Oh My Link sẽ hiển thị một thông báo cho bạn biết.
+
+![Thuê Writer](./../../assets/img/ordered-website.png)
+
+:::tip Mẹo nhỏ
+Nếu bạn thật sự muốn lọc các websites đã mua thì bạn có thể sử dụng tính năng [Website Blacklist](/vi/nguoi-mua/websites.html#chan-cac-websites-khong-mong-muon)
+:::
+
 ## Bước 2: Chọn phương thức thanh toán:
 
 Hiện tại Oh My Link hỗ trợ 2 phương thức thanh toán là: **Thẻ debit / credit** và **Paypal**. Bạn hãy chọn hình thức thanh toán phù hợp nhất cho mình.

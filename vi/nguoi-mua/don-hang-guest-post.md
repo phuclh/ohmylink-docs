@@ -27,9 +27,9 @@ Bạn cũng có thể bấm vào biểu tượng hình *con mắt* để xem chi
 ## Các trạng thái của Guest Post
 
 - **Pending**: Guest Post đang đợi duyệt.
-- **Waiting For Content**: Guest Post đang đợi bài viết từ Writer (nếu bạn thuê Writer của Oh My Link) hoặc bạn chưa nhập **Article URL** ở [Bước 1 của Giỏ Hàng](/vi/nguoi-mua/gio-hang/).
 - **Processing**: Guest Post đang được tiến hành bởi người bán.
 - **Live**: Guest Post của bạn đã được đăng.
+- **Live - Rejected**: Guest Post của bạn đã được đăng nhưng [Live Url](/vi/nguoi-mua/live-url) bị từ chối.
 - **Complete**: Guest Post đã hoàn thành.
 
 ## Nộp bài viết
