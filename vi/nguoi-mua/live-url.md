@@ -56,4 +56,4 @@ Hệ thống sẽ tự động **Chấp nhận** Live Url, nếu trong vòng **2
 
 Oh My Link hỗ trợ bạn theo dõi các Live Urls xem có bị tháo bỏ hay bị chuyển từ *dofollow* sang *nofollow* hay không. Hệ thống sẽ gửi thông báo real-time, email, Slack, hay Discord cho bạn nếu 2 trường hợp trên xảy ra.
 
-Để thực hiện việc theo dõi Live Url, yêu cầu Live Url đó phải được chấp nhận. Bạn chỉ việc nhấn vào nút **Add Tracker** và Live Url đó sẽ được theo dõi 24/7.
+Để thực hiện việc theo dõi Live Url, yêu cầu Live Url đó phải được [Chấp nhận](/vi/nguoi-mua/live-url.html#chap-nhan-live-url). Bạn chỉ việc nhấn vào nút **Add Tracker** và Live Url đó sẽ được theo dõi 24/7.
