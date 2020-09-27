@@ -23,8 +23,8 @@ Còn Live Url là **đường link mà người bán sẽ gửi ngược lại c
 ## Trạng thái của Live Url
 
 - **Pending:** Live Url đang đợi quyết định của bạn. Bạn có thể chấp nhận hoặc từ chối nếu live url chưa đúng với những yêu cầu của bạn.
-- **Rejected:** Bạn đã từ chối Live url.
-- **Approved:** Bạn đã chấp nhận Live url.
+- **Rejected:** Bạn đã từ chối Live Url.
+- **Approved:** Bạn đã chấp nhận Live Url.
 
 ## Từ chối Live Url
 
@@ -56,4 +56,4 @@ Hệ thống sẽ tự động **Chấp nhận** Live Url, nếu trong vòng **2
 
 Oh My Link hỗ trợ bạn theo dõi các Live Urls xem có bị tháo bỏ hay bị chuyển từ *dofollow* sang *nofollow* hay không. Hệ thống sẽ gửi thông báo real-time, email, Slack, hay Discord cho bạn nếu 2 trường hợp trên xảy ra.
 
-Để thực hiện việc theo dõi Live Url, yêu cầu Live Url đó phải được chấp nhận. Bạn chỉ việc nhấn vào nút **Add Tracker** và Live Url đó sẽ được theo dõi 24/7.
+Để thực hiện việc theo dõi Live Url, yêu cầu Live Url đó phải được [Chấp nhận](/vi/nguoi-mua/live-url.html#chap-nhan-live-url). Bạn chỉ việc nhấn vào nút **Add Tracker** và Live Url đó sẽ được theo dõi 24/7.
