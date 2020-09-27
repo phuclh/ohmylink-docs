@@ -11,8 +11,9 @@ module.exports = [
         children: prefix('nguoi-mua', [
             'websites',
             'gio-hang',
-            'don-hang-guest-post',
-            'live-url'
+            'don-hang',
+            'guest-post',
+            'backlinks'
         ]),
     }, {
         title: "Người Bán",
