@@ -63,7 +63,7 @@ Bạn có thể đặt mua Guest Post bằng cách nhấn vào nút **Buy Now**
 
 Hoặc nếu bạn muốn mua nhiều Guest Posts cùng lúc thì hãy chọn vào các *Checkboxes* ở trước tên miền website sau đó nhấn **Buy Now** ở hộp thoại **Select Action**.
 
-![Bộ lọc cho website](./../../assets/img/buy-multiple.png)
+![Mua nhiều guest post cùng lúc](./../../assets/img/buy-multiple.png)
 
 ## Chặn các websites không mong muốn
 

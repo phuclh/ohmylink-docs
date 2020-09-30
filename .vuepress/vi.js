@@ -12,7 +12,7 @@ module.exports = [
             'websites',
             'gio-hang',
             'don-hang',
-            'guest-post',
+            'guest-posts',
             'backlinks'
         ]),
     }, {
@@ -20,6 +20,8 @@ module.exports = [
         collapsable: false,
         children: prefix('nguoi-ban', [
             'websites',
+            'guest-posts',
+            'thanh-toan'
         ]),
     }
 ]
