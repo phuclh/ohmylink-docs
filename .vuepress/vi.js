@@ -3,7 +3,8 @@ module.exports = [
         title: "Tổng quan",
         collapsable: false,
         children: [
-            'gioi-thieu'
+            'gioi-thieu',
+            'thong-ke'
         ],
     }, {
         title: "Người Mua",
