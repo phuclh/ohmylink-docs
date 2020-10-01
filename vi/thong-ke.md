@@ -81,8 +81,8 @@ Xem số lượng guest posts được mua theo ngày.
 
 #### Total Listed Websites
 
-Tổng số các websites được đăng trong chợ (Websites ở trạng thái Ready).
+Tổng số các websites của bạn được đăng trong chợ (Websites ở trạng thái Ready).
 
 #### Website Per Category
 
-Tổng số các websites được đăng trong chợ theo từng danh mục.
+Tổng số các websites của bạn được đăng trong chợ theo từng danh mục.
